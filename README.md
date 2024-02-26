@@ -43,6 +43,8 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/jagarciaDev/jagarciaDev/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img height="300" src="https://www.pixelibyte.com/wp-content/uploads/2017/07/gif-pag-diseno-web_01-1.gif"  />
+</div>
 
 ###
